@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>HTML Syntax</title>
+  </head>
+  <body>
+
+    <h1 style="color:Blue;">My favorite Star Wars character is Obi-Wan Kenobi!</h1>
+    <img src="https://i.insider.com/62728961c3fd45001951f35f?width=1136&format=jpeg" alt="Obi-Wan Kenobi">
+    <p style="color:orange;">He's just badass and a goated character in the Star Wars franchise. Ewan McGregor is also an amazing actor!</p>
+
+  </body>
+</html>
